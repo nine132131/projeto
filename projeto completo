@@ -1,0 +1,114 @@
+index.html
+<link rel="stylesheet" href="style.css" />
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portfólio - Nine</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f8f9fa;
+      color: #212529;
+    }
+
+    .highlight {
+      color: #006d77;
+      font-weight: 600;
+    }
+
+    .tag {
+      background-color: #6c757d;
+      color: white;
+      font-size: 0.85rem;
+      padding: 0.3rem 0.6rem;
+      border-radius: 0.5rem;
+      margin-right: 0.3rem;
+    }
+
+    .card-custom {
+      max-width: 350px;
+      margin: auto;
+    }
+
+    hr {
+      border-top: 2px solid #006d77;
+      width: 80px;
+      margin: 1rem auto;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container text-center mt-5">
+    <img src="WhatsApp Image 2025-06-02 at 03.28.32.jpeg" alt="avatar do arthur" class="rounded-1"
+    width="150" height="150">
+    <p>Olá! me chamo nine</p>
+
+    <h1 class="highlight">Oi! Sou Nine, escritor, desenhista e mangaká.</h1>
+    <h4>Aqui você vai conhecer um pouco do meu mundo criativo.</h4>
+
+    <p class="mt-4">Amo desenhar e escrever. Estou sempre buscando aprender coisas novas e melhorar
+      nas minhas paixões. Este portfólio é onde compartilho meus projetos e o que faço.</p>
+
+    <hr>
+
+    <h3 class="mt-4">ESPECIALIDADES</h3>
+    <div class="d-flex justify-content-center flex-wrap gap-2 mt-2">
+      <span class="tag">Escritor</span>
+      <span class="tag">Mangaká</span>
+      <span class="tag">Desenhista</span>
+      <span class="tag">Criador de histórias</span>
+    </div>
+
+    <hr>
+
+    <h2 class="text-center mt-5">Meus desenhos</h2>
+
+    <div class="row justify-content-center">
+      <div class="col-md-4 text-center">
+        <div class="card shadow-sm mb-4">
+          <img src="WhatsApp Image 2025-06-04 at 11.24.09.jpeg" alt="">
+          <div class="card-body">
+            <h5 class="card-title mb-0">Desenho 1</h5>
+            <p class="card-text text-muted">Ilustração em grafite no estilo mangá.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <div class="card shadow-sm mb-4">
+          <img src="WhatsApp Image 2025-06-04 at 11.30.46.jpeg" alt="">
+          <div class="card-body">
+            <h5 class="card-title mb-0">Desenho 2</h5>
+            <p class="card-text text-muted">Expressão e pose dramática com contraste de traços.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
+
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
